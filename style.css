@@ -1,0 +1,85 @@
+#img-perfil{
+    width: 150px;
+    height: 200px;
+    border-radius: 50%;
+
+}
+#img-tecnolo{
+    width: 100px;
+    height: 100px;
+}
+#img-cb{
+    width: 200px;
+    height: 100px;
+}
+#img-stack{
+    width: 200px;
+}
+.bg-primary{
+    background-color: lightpink!important;
+}
+
+.bg-verde{
+    background-color: rgb(87, 190, 87)!important;
+}
+.nav-link{
+    color: lightcoral!important;
+}
+.text-bg-primary{
+    background-color: rgb(125, 209, 236)!important;
+}
+#letras{
+    color: purple;
+}
+.titulo-proyecto{
+    text-shadow: 3px 5px 40px #020202;
+}
+#proyecto_1{
+    background-image: url('imagenes/biblioteca.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+
+
+    
+}
+#proyecto_2{
+    background-image: url('imagenes/farmacia.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#proyecto_3{
+    background-image: url('imagenes/control.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#proyecto_4{
+    background-image: url('imagenes/BUTIQUE.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#proyecto_5{
+    background-image: url('imagenes/conversor.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.carousel-item{
+    height: 400px;
+}
+.carousel-control-next-icon{
+    background-color: blueviolet;
+}
+.carousel-indicators [data-bs-target] {
+    background-color: blueviolet;
+    height: 5px;
+}
+.carousel-caption{
+    color: black;
+}
+.carousel-control-prev-icon{
+    background-color: blueviolet;
+}
