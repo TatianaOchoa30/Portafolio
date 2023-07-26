@@ -12,6 +12,7 @@ También contiene una seccion de almacenamiento de archivos *(imágenes)* que no
 ## Consulta de resultado de portafolio
 
 Puedes entrara a ver mi portafolio desde este vinculo: https://silly-kataifi-dc0fee.netlify.app
+
 Inspirate y crea el tuyo.
 
 ## Tecnologías
