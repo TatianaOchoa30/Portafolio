@@ -10,6 +10,7 @@ Incluye una descripcion de su motivación, experiencia, articulos publicados y s
 También contiene una seccion de almacenamiento de archivos *(imágenes)* que nos permiten modificar la imagen de perfil del desarrollador y contiene una animación desarrollada con JavaScrip.
 
 ##Consulta de resultado de portafolio
+
 Puedes entrara a ver mi portafolio desde este vinculo: https://silly-kataifi-dc0fee.netlify.app
 Inspirate y crea el tuyo.
 
